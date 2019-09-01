@@ -122,6 +122,21 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ### Resources
 - [Powershell module building basics](https://powershellexplained.com/2017-05-27-Powershell-module-building-basics/)
 
+## Connect into the PDQ SQLite databases
+- Do useful things like map members of a group to their computer name in PDQ Inventory
+
+### Resources
+- [Correlate members of a group to their computer from PDQ Inventory](https://github.com/Sakuru/PDQ_Things/blob/master/AD_Group_to_PDQ_Computer.ps1)
+- [SQLite Tutorial](https://www.sqlitetutorial.net/)
+- [SQLite and PowerShell](http://ramblingcookiemonster.github.io/SQLite-and-PowerShell/)
+    - [RamblingCookieMonster/PSSQLite](https://github.com/RamblingCookieMonster/PSSQLite)
+- [PowerShell: Accessing SQLite databases](https://social.technet.microsoft.com/wiki/contents/articles/30562.powershell-accessing-sqlite-databases.aspx) - SQLite .NET assemblies
+
+#### Performance
+- [How to massively improve SQLite Performance (using SqlWinRT)](https://blogs.msdn.microsoft.com/andy_wigley/2013/11/21/how-to-massively-improve-sqlite-performance-using-sqlwinrt/) - Async.Await
+- [Squeezing Performance from SQLite: Insertions](https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2)
+- [Learn How To Optimize SQLite Performance For 2019](https://www.whoishostingthis.com/compare/sqlite/optimize/)
+
 ## Convert code to use true multithreading
 - Better handling of HTTPListener including non-blocking concurrent requests
 
