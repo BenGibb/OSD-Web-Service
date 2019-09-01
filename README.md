@@ -66,7 +66,7 @@ Add additional notes about how to deploy this on a live system
     * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Speak from the shadows with style
     * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Who did what to the code and when!
     * [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Shiny graphs and metrics about what you have done
-
+        - [WakaTime for this project](https://wakatime.com/@cf341c03-af0e-4792-94ee-79c64dcf5bec/projects/dogiwxznos?start=2019-08-27&end=2019-09-02)
 <!--
 ## Contributing
 
